@@ -9,7 +9,7 @@ import openai
 import json
 
 # Create your views here.
-open_api_key = "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"
+open_api_key = "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"
 openai.api_key = open_api_key
 
 
